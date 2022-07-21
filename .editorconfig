@@ -1,0 +1,17 @@
+# editorconfig.org
+root = true
+
+[*]
+indent_style = space
+<<<<<<< HEAD
+indent_size = 2
+=======
+indent_size = 2
+>>>>>>> 2e84d2a7338805832c94ae05fb7c4a1d16474baf
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
